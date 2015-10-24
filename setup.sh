@@ -7,12 +7,13 @@ brew install caskroom/cask/brew-cask
 
 brew cask install google-japanese-ime
 brew cask install google-chrome
-brew cask install slack
 brew cask install dockertoolbox
 brew cask install java
 brew cask install intellij-idea
 brew cask install atom
 brew cask install iterm2
+brew cask install slack
+brew cask install skype
 
 brew install maven 
 brew install gradle
