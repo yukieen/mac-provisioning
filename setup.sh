@@ -12,7 +12,7 @@ brew cask install dockertoolbox
 brew cask install java
 brew cask install intellij-idea
 brew cask install atom
-brew cask install iteam2
+brew cask install iterm2
 
 brew install maven 
 brew install gradle
